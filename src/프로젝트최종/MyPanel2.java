@@ -147,7 +147,7 @@ public class MyPanel2 extends JPanel implements ActionListener {
 	}
 	public static void main(String[] args) {
 		new MyPanel2();
-
+		
 	}
 
 }
